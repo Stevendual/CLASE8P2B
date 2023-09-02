@@ -1,2 +1,7 @@
-package pizza.interfaces;public interface IPreparable {
+package pizza.interfaces;
+
+public interface IPreparable {
+    void prepare();
+
+
 }
